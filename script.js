@@ -5,3 +5,6 @@ function generateText() {
   var result = document.getElementById("result");
   result.innerHTML = "Your name is " + name + " " + lastName + " and your nickname is " + nickname + ".";
 }
+
+
+//
